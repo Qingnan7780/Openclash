@@ -1,4 +1,4 @@
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripecdn.network
-DOMAIN-SUFFIX,dashboard.stripe.com
+DOMAIN,dashboard.stripe.com
