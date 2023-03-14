@@ -30,3 +30,4 @@ DOMAIN,r.stripe.com
 DOMAIN,verify.stripe.com
 DOMAIN,terminal.stripe.com
 DOMAIN,uploads.stripe.com
+DOMAIN,checkout.stripe.com
